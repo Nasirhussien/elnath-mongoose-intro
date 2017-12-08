@@ -1,1 +1,0 @@
-# elnath-mongoose-intro
